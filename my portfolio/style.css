@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: fixed;
+}
+
+body {
+    background: skyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 1rem;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+}
+
+.nav {
+    dii
+}
+
