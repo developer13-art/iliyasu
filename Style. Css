@@ -1,0 +1,9 @@
+*{
+Padding: 0;
+Margin: 0;
+Box-sizing: border-box;
+} 
+
+Body {
+Background-color: skyblue;
+} 
